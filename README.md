@@ -1,4 +1,4 @@
-<img src="./img/XFCall.png" width="100%" height="300"/>
+<img src="./img/XFCall.png" width="100%" height="400"/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XFcall&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <div>
